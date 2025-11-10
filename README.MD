@@ -19,18 +19,20 @@ The **Valid Image Generator** is a web-based application designed to dynamically
 1. Clone the repository:
    ```bash
    git clone https://github.com/GeorgienDev/Valid-Image-Generator.git
+   ```
 
 2. Navigate to the project directory:
     ```bash
     cd Valid-Image-Generator
-
+    ```
 3. Install dependencies:
     ```bash
     npm install
-
+    ```
 
 ## Usage
 1. Start the server by running:
     ```bash
-        npm start
-2. Open your web browser and navigate to http://localhost:5000/ to generate and view valid image URLs.
+    npm start
+    ```
+2. Open your web browser and navigate to ```http://localhost:5000/``` to generate and view valid image URLs.

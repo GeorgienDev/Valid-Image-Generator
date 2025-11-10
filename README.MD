@@ -36,3 +36,7 @@ The **Valid Image Generator** is a web-based application designed to dynamically
     npm start
     ```
 2. Open your web browser and navigate to ```http://localhost:5000/``` to generate and view valid image URLs.
+
+
+## Live Demo
+You can view **Image Generator** live at: [Valid Image Generator API Live Demo](https://image-generator-cjso.onrender.com/)

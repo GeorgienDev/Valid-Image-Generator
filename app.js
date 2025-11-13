@@ -3,6 +3,9 @@ const app = express()
 const PORT = 5000
 const { check, generate, runChecks } = require('./gen');
 const { env } = require('process');
+const cors = require('cors');
+
+app.use(cors());
 
 app.get("/", async (req, res)=> {
     const result = await runChecks(); 
